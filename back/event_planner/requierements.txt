@@ -1,0 +1,6 @@
+Django
+djangorestframewor
+mysqlclient
+python-decouple
+python-dotenv
+django-cors-headers
